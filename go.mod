@@ -1,4 +1,4 @@
-module github.com/redpanda-data/benthos/v4
+module github.com/timka/benthos/v4
 
 require (
 	cuelang.org/go v0.15.1
